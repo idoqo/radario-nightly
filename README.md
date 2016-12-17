@@ -15,5 +15,7 @@ tldr; only use if you know what you are doing.
 Open the APK file in your device and follow the successive dialogs. If you get an "installation not allowed" warning,
 enable Third-party app installation from [Settings > Security > Unknown sources].
 
+##Manual Updating
 
+Since the app is not "yet" on the google play store, updates are served manually from the Github CDN, to update, use the in-app menu and tap "Check for Update". If a new version is available, it will prompt for download and a new apk will be downloaded for you to install as in the Installation manual.
 
